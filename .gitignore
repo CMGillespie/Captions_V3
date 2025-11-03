@@ -1,0 +1,10 @@
+venv/
+*.pyc
+__pycache__/
+
+# Secret keys
+gcp_key.json
+apikey.txt
+
+# OS files
+.DS_Store
